@@ -1,0 +1,17 @@
+.grid-container{
+    display:grid;
+   height:500px;
+   width:500px;
+    margin-left:400px;
+    margin-top:40px;
+}
+.grid-container div{
+    border-style:solid;
+    border-width: thin;
+}
+
+.text-container{
+    display:flex;
+    gap:8px;
+    justify-content: center;
+}
